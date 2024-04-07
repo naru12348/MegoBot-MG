@@ -7,21 +7,21 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "*『🔥┇𝙼𝙴𝙶𝙾-𝙱𝙾𝚃』*"
+global.botnumber = "*『🔥┇GOJU-𝙱𝙾𝚃』*"
 global.confirmCode = ""
 
-global.owner = [['201012531172', '𝙢,𝙚,𝙜,𝙤, ❦︎', true],
+global.owner = [['201224563219', 'NARUTOꨄ ,', true],
 ];
 
-global.suittag = ['201025663589'];
-global.prems = ['201025663589'];
+global.suittag = ['201224563219'];
+global.prems = ['201224563219'];
 
-global.packname = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.author = '✩𝙼𝙴𝙶𝙾-𝙱𝙾𝚃☆';
-global.wm = '✯𝐌𝐄𝐆𝐎𝐁𝐎𝐓-𝐌𝐃✯';
-global.titulowm = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.titulowm2 = `☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`
-global.igfg = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
+global.packname = '☾︎ GOJU𝘽𝙊𝙏-𝙈𝘿 ☽︎';
+global.author = '✩GOJU-𝙱𝙾𝚃☆';
+global.wm = '✯GOJU𝐁𝐎𝐓-𝐌𝐃✯';
+global.titulowm = '☾︎ GOJU𝘽𝙊𝙏-𝙈𝘿 ☽︎';
+global.titulowm2 = `☾︎ GOJU𝘽𝙊𝙏-𝙈𝘿 ☽︎`
+global.igfg = '☾︎ GOJU𝘽𝙊𝙏-𝙈𝘿 ☽︎';
 global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -42,9 +42,9 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('ar-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`;
-global.gt = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.mysticbot = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
+global.wm2 = `${dia} ${fecha}\n☾︎ GOJU𝘽𝙊𝙏-𝙈𝘿 ☽︎`;
+global.gt = '☾︎ GOJU𝘽𝙊𝙏-𝙈𝘿 ☽︎';
+global.mysticbot = '☾︎ GOJU𝘽𝙊𝙏-𝙈𝘿 ☽︎';
 global.md = 'atom.bio/mego51_51';
 global.mysticbot = 'atom.bio/mego51_51';
 global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
